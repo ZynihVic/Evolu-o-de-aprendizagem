@@ -21,7 +21,7 @@
 - Quero melhorar ainda mais minhas soft skills para superar a timidez.
 - Aprender a criar um currículo que se destaque para qualquer empregador.
 - Dominar a estilização de sites usando CSS para criar designs personalizados.
-- Conseguir criar um proprio site para mim.
+- Desenvolver meu próprio site pessoal.
 - Aprender a usar Figma e Penpot eficazmente para melhorar meu desempenho no design de sites.
 - Aprimorar a organização de pastas e adotar melhores práticas no desenvolvimento de sites.
 
