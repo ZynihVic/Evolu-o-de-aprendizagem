@@ -18,7 +18,7 @@
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Quero melhorar ainda mais minhas soft skills pois soum um pouco timido.
+- Quero melhorar ainda mais minhas soft skills pois sou um pouco timido.
 - Aprender a fazer um curriculo que agrade qualquer um que recebelo.
 - Aprender a deixar o site no estilo que eu quiser.
 - Conseguir criar um proprio site para mim.
@@ -27,6 +27,7 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+- Não desenvolvi muito minhas softskills pois eu não fui MUITO atraz.
 - Aprendi muito sobre a area de tecnologia e como funciona na area empregado.
 - Consegui desenvolver um curriculo, ou mesmo um belo portfólio com a ajuda dos professores e instrutores.
 - aprendi a estilizar de varias maneiras um site, deixalo mais responsivo e bonito.
